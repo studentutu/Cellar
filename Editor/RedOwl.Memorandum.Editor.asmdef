@@ -1,0 +1,18 @@
+{
+    "name": "RedOwl.Memorandum.Editor",
+    "references": [
+        "RedOwl.Core",
+        "RedOwl.Core.Editor",
+        "RedOwl.Memorandum"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
