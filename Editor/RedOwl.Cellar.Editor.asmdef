@@ -1,9 +1,9 @@
 {
-    "name": "RedOwl.Memorandum.Editor",
+    "name": "RedOwl.Cellar.Editor",
     "references": [
         "RedOwl.Core",
         "RedOwl.Core.Editor",
-        "RedOwl.Memorandum"
+        "RedOwl.Cellar"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [
