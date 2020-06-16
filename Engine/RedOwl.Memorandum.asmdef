@@ -1,7 +1,7 @@
 {
     "name": "RedOwl.Memorandum",
     "references": [
-        "RedOwl.Core",
+        "RedOwl.Core"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
